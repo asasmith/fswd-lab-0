@@ -9,7 +9,7 @@
 ## Initial Tool Setup
 
 1.  Install [Homebrew](http://brew.sh)
-2.  Install [Homebrew Cask](http://cashroom.github.io)
+2.  Install [Homebrew Cask](http://caskroom.io/)
 3.  Run `brew update` in the `Terminal` application.
 
 Homebrew should prompt you to install the Xcode Command Line Tools. You should be able to install them by running the command `xcode-select --install`
